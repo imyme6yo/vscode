@@ -1,0 +1,15 @@
+{
+    "name": "doc-venv-3.5.2",
+    "type": "restructured text",
+    "python.pythonPath": "/home/jh/.pyenv/versions/doc-venv-3.5.2/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/home/jh/.pyenv/versions/doc-venv-3.5.2/lib/python3.5/",
+        "/home/jh/.pyenv/versions/doc-venv-3.5.2/lib/python3.5/site-packages"
+    ],
+    "restructuredtext.builtDocumentationPath" : "build/html",
+    "restructuredtext.makefilePath" : ".",
+    "restructuredtext.updateOnTextChanged" : "true"
+    
+}
+
+
