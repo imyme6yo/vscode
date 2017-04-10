@@ -1,0 +1,10 @@
+It is for repository Visual Studio Code .vscode folder settings
+
+
+Branches
+      master : nothing
+      @python : python
+        @python/django : django
+      @node : node
+        @node/angular : angular
+      
