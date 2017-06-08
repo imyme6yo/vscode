@@ -1,0 +1,6 @@
+{
+    "restructuredtext.builtDocumentationPath" : "build/html",
+    "restructuredtext.confPath"               : "source",
+    "restructuredtext.updateOnTextChanged"    : "false",
+    "restructuredtext.sphinxBuildPath"        : "/home/jh/.pyenv/versions/docu-venv-3.5.2/bin/sphinx-build"
+}
